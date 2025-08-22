@@ -19,7 +19,4 @@ add commit
 <br>
 my favorit subject is physics
 <br>
-ytvty vbyutvbgutyhj<br>
-tyfvtyvb uy
-
 
