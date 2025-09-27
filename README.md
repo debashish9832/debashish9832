@@ -14,9 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->i am debashish roy
-hello world
-add commit
-<br>
-my favorit subject is physics
-<br>
+
 
